@@ -21,7 +21,7 @@ To build and run `mood`, you will need:
 Clone the repo (very important), compile the code (dw it will be fast >.<), and install it on your system 
 
 ```bash
-git clone https://github.com/1plushype/mood-cli
+git clone https://github.com/1plushype/mood-cli mood
 cd mood
 make
 sudo make install
